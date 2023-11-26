@@ -1,7 +1,7 @@
 # How to start
 ```bash
-git clone repo name 
-cd repo name 
+git clone git@github.com:TradingToolCrypto/sharefi-tooling.git 
+cd sharefi-tooling 
 npm install 
-npm run trader
+node getNFT.js
 ```
