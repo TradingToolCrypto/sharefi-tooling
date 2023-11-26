@@ -5,3 +5,5 @@ cd sharefi-tooling
 npm install 
 node getNFT.js
 ```
+
+- make a `.env` file for your `RPC_URL` and your `P_KEY` 
